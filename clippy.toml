@@ -1,0 +1,2 @@
+# Tool and format names, not code.
+doc-valid-idents = ["AccessData", "FTK", ".."]
